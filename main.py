@@ -1,3 +1,8 @@
+# Update figure out how to make download link for github
+# application works fine, soon to make new updates, and looks
+
+
+
 import threading
 import time
 import tkinter as tk
